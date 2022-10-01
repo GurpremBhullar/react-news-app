@@ -1,0 +1,100 @@
+.socal .socBox {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.socal .socBox i {
+    margin-right: 20px;
+}
+
+.socal .socBox:nth-child(1) {
+    background-color: #3b5998;
+}
+
+.socal .socBox:nth-child(2) {
+    background-color: #bd081c;
+}
+
+.socal .socBox:nth-child(3) {
+    background-color: #1da1f2;
+}
+
+.socal .socBox:nth-child(4) {
+    background-color: #c32aa3;
+}
+
+.socal .socBox:nth-child(5) {
+    background-color: #ff0000;
+}
+
+/*--------subscribe----------*/
+.subscribe {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.subscribe h1 {
+    text-align: left;
+    font-size: 20px;
+}
+
+.subscribe input {
+    width: 100px;
+    padding: 10px;
+}
+
+.subscribe button {
+    width: 100px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #ff0000;
+    color: #fff;
+    font-weight: 600;
+    border: none;
+}
+
+.form input {
+    width: 100px;
+}
+/*--------subscribe----------*/
+
+
+/*--------banner----------*/
+.banner img {
+    width: 300px;
+    height: 200px;
+}
+
+.catgeorys .category1 {
+    position: relative;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/*--------banner----------*/
+
+/*--------gallery---------*/
+.gallery .img {
+    width: 315px;
+    height: 200px;
+}
+
+.gallery img {
+    width: 315px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/*--------gallery---------*/
+
+@media screen and (max-width:768px) {
+    .gallery img
+    .gallery img {
+        width: 100px;
+        height: 400px;
+    }
+}
+
+

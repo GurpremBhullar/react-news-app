@@ -1,4 +1,5 @@
 import React from 'react'
+import Side from '../../../sideContent/side/Side'
 import Life from '../life/Life'
 import Music from '../musics/Music'
 import Popular from '../popular/Popular'
@@ -17,7 +18,9 @@ const Home = () => {
                 <Life />
                 <Music />
             </section>
-            <section className='sideContent'></section>
+            <section className='sideContent'>
+              <Side />
+            </section>
         </div>
     </main>
     </>

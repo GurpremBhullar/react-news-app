@@ -1,7 +1,6 @@
 main .container {
     display: flex;
     justify-content: space-between;
-    height: 100vh;
 }
 
 .mainContent {
@@ -11,6 +10,7 @@ main .container {
 .sideContent {
     width: 23%;
 }
+
 
 @media screen and (max-width:768px) {
     main .container {

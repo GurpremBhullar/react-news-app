@@ -396,7 +396,7 @@ export const tpost = [
   {
     id: 1,
     title: "US Promises to give Intel aid to locate the soldiers",
-    cover: "../images/tpost/tpost.webp",
+    cover: "../images/tpost/tpost01.jpg",
   },
   {
     id: 2,
@@ -445,7 +445,7 @@ export const discover = [
   },
   {
     title: "movies",
-    cover: "../images/discover/d5.jpg",
+    cover: "../images/discover/d4.jpg",
   },
   {
     title: "nitendo",

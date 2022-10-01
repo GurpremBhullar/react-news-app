@@ -29,8 +29,8 @@ a {
 }
 .flexSB {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  align-content: center;
+  justify-content: center;
 }
 .flex {
   display: flex;
